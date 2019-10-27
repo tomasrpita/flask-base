@@ -128,3 +128,6 @@ dmypy.json
 
 # Registro de logs
 logs/
+
+# Archivos de vscode
+.vscode\
