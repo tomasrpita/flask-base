@@ -1,6 +1,6 @@
 # Flask-Base
 
-Flask-Base es un grupo de ficheros y directorios que forman la estructura de una aplicación simple en flask.
+Flask-Base es un grupo de ficheros y directorios que forman la estructura de una aplicación base(boilerplate) en flask.
 
 ## Estructura del árbol del directorio
 
